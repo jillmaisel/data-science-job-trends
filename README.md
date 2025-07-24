@@ -72,7 +72,7 @@ Forecast:
 
 # Tableau Dashboard
 
-Explore the interactive Tableau dashboard here: Link to Tableau Public
+Explore the interactive Tableau dashboard here: [Link to Tableau Public](https://public.tableau.com/views/DataScienceJobTrends_17533306711200/MetroEmploymentForecast?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 Features:
