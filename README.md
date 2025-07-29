@@ -56,8 +56,16 @@ Forecast:
 ├── images/
 
 
-│      └── tableau_dashboard_screenshot.png
+│ └── Employment Forecast Tableau Screenshot.png
 
+
+│ └── Salary Forecast Tableau Screenshot.png
+
+
+│ └── Employment Forecast by Metro Tableau Screenshot.png
+
+
+│ └── Salary Forecast by Metro Tableau Screenshot.png
 
 ├── README.md
 
